@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Excel Extractor",
+  "description": "Batch extract specific data fields from PDF documents and export them to Excel using Gemini AI.",
+  "requestFramePermissions": []
+}
